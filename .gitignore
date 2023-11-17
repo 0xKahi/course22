@@ -1,5 +1,6 @@
 bird.jpg
 forest.jpg
+*.jpg
 .DS_Store
 *.csv
 *.pkl
